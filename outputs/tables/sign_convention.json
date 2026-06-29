@@ -1,0 +1,6 @@
+{
+  "battery_positive_means": "discharge",
+  "demand_identity": "Demand = Net Demand + Solar + Battery",
+  "plus_residual_abs_max": 2.842170943040401e-14,
+  "minus_residual_abs_max": 81.61787931034479
+}
